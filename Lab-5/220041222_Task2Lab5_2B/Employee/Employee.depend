@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1727890846 source:d:\220041222 cse4302\lab-5\220041222_task2lab5_2b\employee\src\employee.cpp
+	"Employee.h"
+	<string>
+	<ctime>
+	<iostream>
+
+1727890802 d:\220041222 cse4302\lab-5\220041222_task2lab5_2b\employee\include\employee.h
+	<string>
+	<ctime>
+
