@@ -1,7 +1,6 @@
 #ifndef MATRIX3D_H
 #define MATRIX3D_H
 
-
 class Matrix3D
 {
     private:
